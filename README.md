@@ -160,4 +160,4 @@ Portfolio
 ```
 ## :innocent: Feedback
 
-If you have any feedback, please reach out to me [here](yeabtsega20@gmail.com)
+If you have any feedback, please reach out to me [here](https://yeab-portfolio.netlify.app/#contact)
